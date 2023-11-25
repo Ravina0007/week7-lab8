@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header,
+  footer {
+    background-color: #cbe09c;
+    color: rgb(15, 14, 14);
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  section,
+  article,
+  Sidebar,
+  aside {
+    border: 1px solid #cabbbb;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+  }
